@@ -13,7 +13,7 @@
 
 ---
 [Outer Dark](https://globalgamejam.org/2020/games/outer-dark-8)
-<img src="images/outerdark.jpg?raw=true"/>
+<img src="images/outerdark.png?raw=true"/>
 
 ---
 
