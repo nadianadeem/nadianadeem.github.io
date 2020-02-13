@@ -2,11 +2,11 @@
 
 ---
 
-## Pirate Dash (https://nadianadeem.github.io/2DBoatRace/)
+## [Pirate Dash](https://nadianadeem.github.io/2DBoatRace/)
 <img src="images/piratedash.png?raw=true"/>
 
 ---
-[Outer Dark](https://globalgamejam.org/2020/games/outer-dark-8)
+## [Outer Dark](https://globalgamejam.org/2020/games/outer-dark-8)
 <img src="images/outerdark.jpg?raw=true"/>
 
 
