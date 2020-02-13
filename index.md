@@ -2,7 +2,7 @@
 
 ---
 
-## [Pirate Dash](https://nadianadeem.github.io/2DBoatRace/)
+## [Pirate Dash](https://nadianadeem.github.io/Pirate-Dash/)
 <img src="images/piratedash.png?raw=true"/>
 
 ---
