@@ -8,8 +8,8 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Pirate Dash](https://www.linkedin.com/posts/nadia-nadeem-a96a34156_first-game-university-activity-6596871049130979328-J2cW)
+<img src="images/piratedash.jpg?raw=true"/>
 
 ---
 [Outer Dark](https://globalgamejam.org/2020/games/outer-dark-8)
