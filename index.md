@@ -9,11 +9,11 @@
 
 ---
 [Pirate Dash](https://www.linkedin.com/posts/nadia-nadeem-a96a34156_first-game-university-activity-6596871049130979328-J2cW)
-<img src="images/piratedash.jpg?raw=true"/>
+<img src="images/piratedash.png?raw=true"/>
 
 ---
 [Outer Dark](https://globalgamejam.org/2020/games/outer-dark-8)
-<img src="images/outerdark.png?raw=true"/>
+<img src="images/outerdark.jpg?raw=true"/>
 
 ---
 
