@@ -1,6 +1,6 @@
 ## Portfolio
 ---
-## [Sea of Fury](https://github.com/nadianadeem.github.io/SeaOfFury)
+## [Sea of Fury](https://nadianadeem.github.io/SeaOfFury/)
 <img src="images/SeaOfFuryScreenShot.png?raw=true"/>
 
 ---
